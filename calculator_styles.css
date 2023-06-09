@@ -1,0 +1,26 @@
+.butt{
+     padding:20px;
+     margin: 0 2px;
+     border: 2px solid black;
+     border-radius: 10px;
+     cursor: pointer;
+    width: 70px;
+    font-size: 15px;
+    font-weight: bold;
+    align-items: center;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.row{
+    margin: 3px 1px;
+    padding:0;
+}
+.row input{
+    margin:0 ;
+    padding: 10px 50px ;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+}
